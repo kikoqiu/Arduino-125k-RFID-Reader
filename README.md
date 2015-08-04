@@ -1,4 +1,5 @@
-# Arduino-125k-RFID-Reader
+# The simpliest 125k RFID tag Reader for Arduino PRO mini.
+
 Use arduino pro mini + a capacitor + an coil to make an 125k manchester encoded RFID tag reader. 
 
 See connection.png for info.
